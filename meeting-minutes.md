@@ -1,6 +1,34 @@
 # Best Practices for Open Source developers Working Group - Meeting Minutes
 
 <details>
+ <summary>Regular meeting - October 12th, 2020</summary>
+ 
+ ## Intro
+ *  
+ 
+ ## Quick status on in-flight projects
+ ### Fundamentals course
+ 
+ 
+ ### SKF
+ 
+  
+ 
+ ## CII Best Practices badge project: which working group of the OSSF?
+ 
+ 
+ 
+ ## Inventory project:  
+ 
+  
+ 
+ ## Other subjects
+  
+
+</details>
+
+
+<details>
  <summary>Regular meeting - September 28th, 2020</summary>
  
  ## Intro
